@@ -12,17 +12,6 @@
     ],
     "appRepositories": [
         {
-            "appType": "ENT_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2022-07-06T08:00:00+0800",
-            "appName": "微信多开",
-            "appVersion": "8.0.24",
-            "appImage": "https://gbox.run/Public/images/icon.png",
-            "appPackage": "https://github.beneasy.workers.dev/https://github.com/kid-oh/stupid-test/releases/download/v8.0.24/_8.0.24_dump.Modified.ipa",
-            "appDescription": "jan"
-        },
-
-        {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2022-07-06T08:00:00+0800",
@@ -30,17 +19,6 @@
             "appVersion": "8.0.24",
             "appPlist": "https://github.beneasy.workers.dev/https://github.com/kid-oh/stupid-test/releases/download/v8.0.24/_8.0.24_dump.Modified.ipa",
             "appDescription": "jan"
-        },
-
-        {
-            "appType": "LINK",
-            "appCateIndex": 0,
-            "appUpdateTime": "2019-12-27T9:30:00+0800",
-            "appName": "GBox官网",
-            "appVersion": "1.0",
-            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
-            "appLink": "https://gbox.run",
-            "appDescription": "网页连接测试"
         },
     ]
 }
