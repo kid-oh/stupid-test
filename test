@@ -1,24 +1,14 @@
 {
-    "version": "1.0",
-    "sourceName": "阿设计成",
-    "sourceAuthor": "no one",
-    "sourceLinkTitle": "Gbox主页",
-    "sourceLinkUrl": "https://gbox.run",
-    "sourceImage": "https://gbox.run/Public/images/source.png",
-    "sourceUpdateTime": "2022-07-06T11:00:00+0800", 
-    "sourceDescription": "GBox官方软件源的描述",
-    "appCategories": [
-        "工具"
-    ],
-    "appRepositories": [
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-            "appUpdateTime": "2022-07-06T08:00:00+0800",
-            "appName": "微信多开",
-            "appVersion": "8.0.24",
-            "appPlist": "https://github.beneasy.workers.dev/https://github.com/kid-oh/stupid-test/releases/download/v8.0.24/_8.0.24_dump.Modified.ipa",
-            "appDescription": "jan"
-        },
-    ]
+  "appCategories" : [
+    "工具"
+  ],
+  "sourceUpdateTime" : "2022-07-06T+0800 上午9:30+0800",
+  "sourceAuthor" : "no one",
+  "sourceLinkUrl" : "https:\/\/gbox.run",
+  "sourceDescription" : "GBox官方软件源的描述",
+  "version" : "1.0",
+  "sourceName" : "阿设计成",
+  "sourceLinkTitle" : "Gbox主页",
+  "sourceImage" : "https:\/\/gbox.run\/Public\/images\/source.png",
+  "appRepositories" : "AwEVFRTI6dPKr6heqAz7kkxTgqH+oLMlz2rSUxn42Er6SgurGJS6\/NQZPqzVWHXUMc0VIpVfdw7JVPwmwEN\/3lXdg\/Jhd9nhbjYdonCAsPg0xOcazNtSWeXuDPDn7XuU+5GPmLe\/RGQ5svrmc\/2lAbd1xKy+BYGmx1sOCxyv8C1cOlgrcZPnC9NvigaSGezLIwwSe2oJj45tQrdVgXb0kW5+JO9Rp4bMPm91vmSN4WhStgw7csB+mksAjh38r9A0YzGMTGL9nOHP6MdwhvCbh3enf4VDgWWLQ5PTJyicZtzSJDZLAegJw4\/NXyYnDgwnZKHC4UsA7DdbEynlJsnNVxaFAAH96Iqv89EdYGNzFaBk+6WymNKTtUlF1SyDiucCMZATqlPZ9ACeBAVvKDJcxSNe1cSZBKO6srPUwobM2QJj4q6GzDG16keu9jYUl\/8aMUnckkbvV+siCulPJEE12zGX5b0uUyJyk4sEjVsfjmiUxNhMMk1\/HshNCUyV0Z0gtLs="
 }
