@@ -1,14 +1,35 @@
 {
-  "appCategories" : [
-    "工具"
-  ],
-  "sourceUpdateTime" : "2022-07-14T+0800 下午4:27+0800",
-  "sourceAuthor" : "no one",
-  "sourceLinkUrl" : "https:\/\/gbox.run",
-  "sourceDescription" : "跟随微信官方升级，可保留聊天记录覆盖升级",
-  "version" : "1.0",
-  "sourceName" : "阿设计成",
-  "sourceLinkTitle" : "Gbox主页",
-  "sourceImage" : "http:\/\/oss.lxmulx.com\/2022\/07\/06\/e47a8f3ae74aa.JPG",
-  "appRepositories" : "AwHyqxaQoZymNP+uS9JTUzLZepNIrS+YI3uFMtkGNH+hp7Qm+ESl\/FQJlo0YUbomWqHKCQjDyeuHLatCaaIxELDHbr2oywDoKItR1l1kCCQCZDR9C06sj80RZiyKZ\/v6Gq20AV1ByZCA4sEt+LOR9E9KnwzvqJCoLj9IX7Lyojj+a9iKbKfC3z38fjRDfU75nbpJwhQ6r4HW8wLXNXYseKQHXa\/b\/SfZJlKgAa\/O3OGWCCsV3wFMHmP\/YUhPh\/+hp4Bulg8tNNC45fobeQ0loG\/wuv33WPinT9BoVNLPztQclMPhsNAQyCF6F5N9krbW7jW2eIR6u3qhQVPvZ09BgYPXrOmPB4o0YHGRfGo6dLCqjyvjxXwUTm9zVTUCdSU5bLkW1vx7V5vekEoOUxAQBVVNeZnoOHfXv93HRX0dd6\/+wjevUyi\/jp3D6B+7DQE69\/7\/agUcgiIQhjizu28YROUgpnwH+cVnGugTU1BG2RMnPpKVuv+m9JTaqo52fNYmvfMwBAUXmv++cZ0okZ4fKtDbxKS6RY4fxnL0Xa+X12X4km9lzhvizJ4ddTtR3ACKvUoSdxwCr4jR4cr6AnMgxjrMoTf7SbUrUXOCD0zpyJGo+4bqL7w2y3JBFQ0ssuytyTJ8Iau8buK8uEIqXsm5LJblzZfM7OtLC7aWh6zrHnN5RxwRETKJ56ylOkKsaOHaR4CY2EoMd53NQIZsHqAC8GRXhkPUH78hfDA9CQ5jHLbdSwZSyacquY6awkEH9dwLBdNotckARzzd9GZrPyGwV31a0WCVP8elKAT\/cG0y7mnQmtSlz\/f5lqXOR3mzvDSHM1bbUsu7VggmTGfgzlv06hLD6OCbddH4iXqRJv1AOaLnJVMA2WjEq3VXPvF3KJcc3QE4ksIJoCEAI6wGzUEvOR2evP\/fzgV1N0hA5iMstICyKTwzH4VqWlz\/ECjZgDYAIZyRyuif79LR1Ko4pAp5dv8fNoPIQHmUCANuOo2Lxgg8Y+x0Jyi7+OWDXZXlkSRsGh03OWzMm1vyAgR5hdLWScVc4cgOmkTjNN4JinSAfmuN0V4IhPRGdBOPf6QGMr6rAmI\/CIpoCRmlMETcL1+AVTGhManB1yk\/3umXro3fsAq5BbyxAhQBey\/10CaQ+Oy+iaYqospHIRaHuaOklDF7BiL9Zq0M2f\/QQrBGjrzgjuTZfPnDiPXOBdWrPIA0xJNqjFkbJyLIkAelTmrKDc226vRF7WItm45nNjMCKct0Ipbl37QBlcTwmobJxDUsg02usyklVxU1iTGzc2GeZhuu9Ns6uj7S2jtlmwd8FiW6aJsAHrd2F27oWxvPRC5k8BXkKcbzFT5x0pTn3muSTuzweJ9ehWTkkS1Y0RA\/rYm\/WebLKo8BTMsKI6OFn7XvuhL\/SXgW0BuL61wjWWDkl3\/N8wB5Q7tJiQqHQ5pWVvV8nwHhBc1SG+NDTz506\/dCLxH5QcfoJcF+In+rzzbnnQEySzhjdx2IktntzjVGwJagnuT4S6e+acQWkb60DwhiWg45HhM="
+    "version": "1.0",
+    "sourceName": "阿设计成",
+    "sourceAuthor": "no one",
+    "sourceLinkTitle": "Gbox主页",
+    "sourceLinkUrl": "https://gbox.run",
+    "sourceImage": "http://oss.lxmulx.com/2022/07/06/e47a8f3ae74aa.JPG",
+    "sourceUpdateTime": "2022-07-06T11:00:00+0800", 
+    "sourceDescription": "跟随微信官方升级，可保留聊天记录覆盖升级",
+    "appCategories": [
+        "工具"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-07-06T08:00:00+0800",
+            "appName": "微信多开",
+            "appVersion": "8.0.25",
+            "appImage": "https://github.beneasy.workers.dev/https://raw.githubusercontent.com/kid-oh/stupid-test/main/Icon%402x.png",
+            "appPlist": "https://github.beneasy.workers.dev/https://github.com/kid-oh/stupid-test/releases/download/v8.0.25/_8.0.25_Modified.ipa",
+            "appDescription": "插件版，如果需要消息实时推送（会增加耗电）请到微信助手-打开常驻后台运行，并且把软件保留至后台"
+        },
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-07-06T08:00:00+0800",
+            "appName": "微信多开纯净版",
+            "appVersion": "8.0.25",
+            "appImage": "https://github.beneasy.workers.dev/https://raw.githubusercontent.com/kid-oh/stupid-test/main/Icon%402x.png",
+            "appPlist": "https://github.beneasy.workers.dev/https://github.com/kid-oh/stupid-test/releases/download/v8.0.25/_8.0.25_pure.ipa",
+            "appDescription": "无插件，没有后台推送，只有手动打开app才能收到消息"
+        },
+    ]
 }
