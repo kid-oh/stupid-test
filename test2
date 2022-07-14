@@ -1,0 +1,25 @@
+{
+"name":"阿克苏次崩溃",
+"message":"软件来源：https://app.qxnav.com/appstore\r\n免费，如果你觉得收费的好，那我也可以收费\r\n奇心导航 https://qxnav.com/\r\n公众号：奇心科技Pro QQ群：743850705\r\n注：软件源用爱发电，没有加速下载，下载慢的可以去qq群文件\r\n奇心科技，创造不一样的科技平台！",
+"identifier":"奇心科技，创造不一样的科技平台！",
+"sourceURL":"https://app.qxnav.com/appstore",
+"sourceicon":"https://qxnav.com/wp-content/uploads/2022/01/cropped-奇.png",
+"payURL":"https://www.baidu.com",
+"unlockURL":"http://test.nuosike.com/appstore",
+
+"apps":[
+{
+"name":"微信Pro",
+"version":"8.0.25",
+"versionDate":"2022-07-06",
+"versionDescription":"iPad版：同一证书直接覆盖安装升级即可 \n\n 已集成插件\n WeChat、Voice、微信助手、苏兔主题、斗图助手、微信净化、 消息屏蔽 \n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载",
+"lock":"0",
+"downloadURL":"https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E5%BE%AE%E4%BF%A1/WeChat_8.0.25_iPad_Pro.ipa",
+"isLanZouCloud":"0",
+"iconURL":"http://app.qxnav.com/uploads/20220526/43d9650f777b46ec6f09c2bbcb8f5b4b.jpg",
+"tintColor":"",
+"size":"252706816"
+},
+
+]
+}
