@@ -13,7 +13,6 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-07-06T08:00:00+0800",
             "appName": "微信多开",
             "appVersion": "8.0.25",
             "appImage": "https://raw.githubusercontent.com/kid-oh/stupid-test/main/Icon%402x.png",
@@ -23,7 +22,6 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-07-06T08:00:00+0800",
             "appName": "微信多开纯净版",
             "appVersion": "8.0.25",
             "appImage": "https://raw.githubusercontent.com/kid-oh/stupid-test/main/Icon%402x.png",
