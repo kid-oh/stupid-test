@@ -9,16 +9,16 @@
 
 "apps":[
 {
-"name":"微信Pro",
+"name":"微信多开插件版",
 "version":"8.0.25",
-"versionDate":"2022-07-06",
-"versionDescription":"iPad版：同一证书直接覆盖安装升级即可 \n\n 已集成插件\n WeChat、Voice、微信助手、苏兔主题、斗图助手、微信净化、 消息屏蔽 \n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载",
+"versionDate":"2022-07-14",
+"versionDescription":"插件版，如果需要消息实时推送（会增加耗电）请到微信助手-打开常驻后台运行，并且把软件保留至后台",
 "lock":"0",
-"downloadURL":"https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E5%BE%AE%E4%BF%A1/WeChat_8.0.25_iPad_Pro.ipa",
+"downloadURL":"https://github.com/kid-oh/stupid-test/releases/download/v8.0.25/_8.0.25_Modified.ipa",
 "isLanZouCloud":"0",
-"iconURL":"http://app.qxnav.com/uploads/20220526/43d9650f777b46ec6f09c2bbcb8f5b4b.jpg",
+"iconURL":"https://raw.githubusercontent.com/kid-oh/stupid-test/main/Icon%402x.png",
 "tintColor":"",
-"size":"252706816"
+"size":""
 },
 
 ]
