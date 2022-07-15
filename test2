@@ -14,9 +14,9 @@
 "versionDate":"2022-07-14",
 "versionDescription":"插件版，如果需要消息实时推送（会增加耗电）请到微信助手-打开常驻后台运行，并且把软件保留至后台",
 "lock":"0",
-"downloadURL":"https://github.com/kid-oh/stupid-test/releases/download/v8.0.25/_8.0.25_Modified.ipa",
+"downloadURL":"https://github.beneasy.workers.dev/https://github.com/kid-oh/stupid-test/releases/download/v8.0.25/_8.0.25_Modified.ipa",
 "isLanZouCloud":"0",
-"iconURL":"https://raw.githubusercontent.com/kid-oh/stupid-test/main/icon.png",
+"iconURL":"https://github.beneasy.workers.dev/https://raw.githubusercontent.com/kid-oh/stupid-test/main/icon.png",
 "tintColor":"",
 "size":"255852544"
 },
@@ -27,9 +27,9 @@
 "versionDate":"2022-07-14",
 "versionDescription":"无插件，没有后台推送，只有手动打开app才能收到消息",
 "lock":"0",
-"downloadURL":"https://github.com/kid-oh/stupid-test/releases/download/v8.0.25/_8.0.25_pure.ipa",
+"downloadURL":"https://github.beneasy.workers.dev/https://github.com/kid-oh/stupid-test/releases/download/v8.0.25/_8.0.25_pure.ipa",
 "isLanZouCloud":"0",
-"iconURL":"https://raw.githubusercontent.com/kid-oh/stupid-test/main/icon.png",
+"iconURL":"https://github.beneasy.workers.dev/https://raw.githubusercontent.com/kid-oh/stupid-test/main/icon.png",
 "tintColor":"",
 "size":"241172480"
 },
